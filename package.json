@@ -1,6 +1,8 @@
 {
-  "name": "macportfolio",
-  "version": "0.1.0",
+  "name": "hostinger-react",
+ "homepage": "https://joshuajmcmillersr.com/",
+ "version": "1.0.0",
+ "description": "my react application",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
